@@ -1,0 +1,24 @@
+1 Michael Jordan 3
+3 8 12
+2 Stephen Boyd 3
+3 1 12
+3 Kalyanmoy Deb 3
+1 2 8
+4 David Johnson 2
+6 3
+5 Scott Kirkpatrick 2
+6 7
+6 Lieven Vandenberghe 2
+8 3
+7 Fabian Pedregosa 2
+8 6
+8 Jorge Nocedal 3
+11 10 9
+9 Clifford Stein 2
+4 12
+10 Stephen Wright 3
+5 8 12
+11 Philippe Salembier 2
+12 2
+12 Robert Stevenson 3
+8 10 11
